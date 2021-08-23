@@ -1,3 +1,5 @@
 1. Simulasi dan kominikasi digital
 2. Pemograman dasar
 3. Komputer dan jaringan dasar
+4. Fisika
+5. Dasar design grafis
