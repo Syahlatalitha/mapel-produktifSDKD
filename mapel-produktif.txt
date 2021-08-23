@@ -1,0 +1,3 @@
+1. Simulasi dan kominikasi digital
+2. Pemograman dasar
+3. Komputer dan jaringan dasar
