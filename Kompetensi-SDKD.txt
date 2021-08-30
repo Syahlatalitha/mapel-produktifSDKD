@@ -7,4 +7,6 @@ c. Github
 -membuat repository
 -membuat file baru
 -membuat commit
-d. Git
+
+d.Git
+-belum
