@@ -1,0 +1,4 @@
+a. Komunikasi daring Sinkron
+b. Komunikasi daring Asinkron
+c. Github
+d. Git
