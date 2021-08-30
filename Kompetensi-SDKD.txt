@@ -3,4 +3,6 @@ a. Komunikasi daring Sinkron
 b. Komunikasi daring Asinkron
 -Email
 c. Github
+-membuat akun
+-membuat repository
 d. Git
